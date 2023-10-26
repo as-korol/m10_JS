@@ -87,7 +87,7 @@ main {
 
 .fruits__wrapper {
     flex-basis: 75%;
-    background: black;
+    background: white;
     max-height: inherit;
     overflow: hidden;
 }
